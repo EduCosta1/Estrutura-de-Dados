@@ -1,6 +1,8 @@
-include <iostream>
+#include <iostream>
 #include<stdlib.h>
 #include "locale.h"
+
+/*Criar uma Pilha(LIFO) e uma Fila(FIFO) em C*/
 
 struct filasimples
 {
